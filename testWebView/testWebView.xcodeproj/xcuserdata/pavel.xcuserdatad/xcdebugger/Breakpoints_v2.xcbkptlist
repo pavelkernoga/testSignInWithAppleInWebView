@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C5D058DD-55F3-4C35-B8D2-0004D2351D24"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D54BDA6C-F011-40A8-8F2D-259495A31131"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testWebView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "webView(_:didFail:withError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D54BDA6C-F011-40A8-8F2D-259495A31131 - 5e20f88a0645abaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testWebView.ViewController.webView(_: __C.WKWebView, didFail: Swift.Optional&lt;__C.WKNavigation&gt;, withError: Swift.Error) -&gt; ()"
+                  moduleName = "testWebView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavel/Documents/projects/testWebView/testWebView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "D54BDA6C-F011-40A8-8F2D-259495A31131 - 5e20f88a0645abaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testWebView.ViewController.webView(_: __C.WKWebView, didFail: Swift.Optional&lt;__C.WKNavigation&gt;, withError: Swift.Error) -&gt; ()"
+                  moduleName = "testWebView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavel/Documents/projects/testWebView/testWebView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2075B3A3-77CF-46F5-A397-DE070533F9C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testWebView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "webView(_:didFailProvisionalNavigation:withError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2075B3A3-77CF-46F5-A397-DE070533F9C4 - 73b7fd89362a9605"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testWebView.ViewController.webView(_: __C.WKWebView, didFailProvisionalNavigation: Swift.Optional&lt;__C.WKNavigation&gt;, withError: Swift.Error) -&gt; ()"
+                  moduleName = "testWebView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavel/Documents/projects/testWebView/testWebView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "2075B3A3-77CF-46F5-A397-DE070533F9C4 - 73b7fd89362a9605"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testWebView.ViewController.webView(_: __C.WKWebView, didFailProvisionalNavigation: Swift.Optional&lt;__C.WKNavigation&gt;, withError: Swift.Error) -&gt; ()"
+                  moduleName = "testWebView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavel/Documents/projects/testWebView/testWebView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
